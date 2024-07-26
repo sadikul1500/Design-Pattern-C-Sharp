@@ -1,4 +1,5 @@
-﻿using FactoryPattern.Factory;
+//https://www.youtube.com/watch?v=yAr_beKlRPQ
+using FactoryPattern.Factory;
 using FactoryPattern.Products;
 
 namespace FactoryPattern;
